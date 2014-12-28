@@ -24,7 +24,7 @@ BuildRequires:	bzip2-devel
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	docbook-dtd42-xml
 BuildRequires:	docbook-style-xsl
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	qt4-build >= %{qtver}
 BuildRequires:	qt4-qmake >= %{qtver}
 BuildRequires:	rpm-pythonprov
